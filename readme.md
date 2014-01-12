@@ -10,7 +10,7 @@ SaberMod Linaro GCC Optimized PA
 [Official PA Source Is Here](https://github.com/AOSPA-legacy)
 ------------------------------------------------------
 
-Building ASOPAL
+Building AOSPAL
 -------------------------
 
 To get started with AOSPAL, you'll need to get
@@ -18,7 +18,7 @@ familiar with [Git and Repo](http://source.android.com/download/using-repo).
 
 To initialize your local repository using the ParanoidAndroid trees, use a command like this:
 
-    repo init -u git://github.com/AOSPA-legacy/manifest.git -b remix-legacy
+    repo init -u git://github.com/AOSPAL/manifest.git -b remix-legacy
 
 Then sync up AOSPAL:
 
