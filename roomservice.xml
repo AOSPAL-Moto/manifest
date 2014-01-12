@@ -3,7 +3,7 @@
 
   <remote name="gh" fetch="git://github.com/" />
 
-  <!-- AOKP removals -->
+  <!-- AOSPAL removals -->
   <remove-project name="ASOPAL/android_vendor_pa" />
 
   <!-- ASOPAL adds/replacements -->
