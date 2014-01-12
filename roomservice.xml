@@ -7,7 +7,7 @@
   <remove-project name="ASOPAL/android_vendor_pa" />
 
   <!-- ASOPAL adds/replacements -->
-  <project name="ASOPAL-Moto/android_vendor_aokp" path="vendor/pa" remote="gh" revision="kitkat-legacy" />
+  <project name="ASOPAL-Moto/android_vendor_pa" path="vendor/pa" remote="gh" revision="kitkat-legacy" />
   <project name="ASOPAL-Moto/android_device_motorola_xt907" path="device/motorola/xt907" remote="gh" revision="cm-11.0" />
   <project name="ASOPAL-Moto/android_device_motorola_xt926" path="device/motorola/xt926" remote="gh" revision="cm-11.0" />
   <project name="ASOPAL-Moto/android_device_motorola_xt1060" path="device/motorola/xt1060" remote="gh" revision="cm-11.0" />
