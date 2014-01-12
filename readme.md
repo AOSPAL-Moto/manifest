@@ -26,7 +26,7 @@ Then sync up AOSPAL:
     
 Then download additional repo's for unofficial devices:
 
-    curl -L -o .repo/local_manifests/roomservice.xml -O -L https://raw.github.com/ASOPAL-Moto/manifest/remix-legacy/roomservice.xml
+    curl -L -o .repo/local_manifests/roomservice.xml -O -L https://raw.github.com/AOSPAL-Moto/manifest/remix-legacy/roomservice.xml
  
     	( or Download: https://github.com/AOSPAL-Moto/manifest/blob/remix-legacy/roomservice.xml
 		and place it in your ~/Android/.repo/local_manifests/roomservice.xml (or ~/'name you choose'/.repo/local_manifests/ )
