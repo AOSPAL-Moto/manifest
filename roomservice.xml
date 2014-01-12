@@ -11,8 +11,8 @@
   <project name="AOSPAL-Moto/android_device_motorola_xt907" path="device/motorola/xt907" remote="gh" revision="cm-11.0" />
   <project name="AOSPAL-Moto/android_device_motorola_xt926" path="device/motorola/xt926" remote="gh" revision="cm-11.0" />
   <project name="AOSPAL-Moto/android_device_motorola_xt1060" path="device/motorola/xt1060" remote="gh" revision="cm-11.0" />
-  <!-- <project name="ASOPAL-Moto/android_device_motorola_xt1080c" path="device/motorola/xt1080c" remote="gh" revision="cm-11.0" /> -->
-  <!-- <project name="ASOPAL-Moto/android_device_motorola_xt1080" path="device/motorola/xt1080" remote="gh" revision="cm-11.0" /> -->
+  <!-- <project name="AOSPAL-Moto/android_device_motorola_xt1080c" path="device/motorola/xt1080c" remote="gh" revision="cm-11.0" /> -->
+  <!-- <project name="AOSPAL-Moto/android_device_motorola_xt1080" path="device/motorola/xt1080" remote="gh" revision="cm-11.0" /> -->
   
   <project name="AOSPAL-Moto/android_device_lge_vs980" path="device/lge/vs980" remote="gh" revision="cm-11.0" />
   <project name="AOSPAL-Moto/android_device_lge_g2-common" path="device/lge/g2-common" remote="gh" revision="cm-11.0" />
